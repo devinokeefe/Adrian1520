@@ -1,0 +1,182 @@
+# Groups of the cardinal of Tortosa's cipher, 1520-1521.
+# group: the letters as written, without the closing dot. docs/METHOD.md says how r and z, and
+#   q and g, are distinguished in this hand.
+# source K = Kolosova's thesis, vocabulary of "cifra 4", pp. 249-250. The thesis gives each group
+#   as a picture cut from the manuscript.
+#   Its values are in modern spelling. Here they are in the spelling of the letters where the
+#   two differ (ahun, assi, deve, quando, Magestad), and without accents; tid. is given there as
+#   so/çu. The thesis has mu. only in the pair cim. mu., vuestra Magestad; mu. alone for Magestad
+#   is taken from that pair, since cim. alone is vuestra in the vocabulary.
+# source S = found in this study from Simancas letters whose deciphered text is known:
+#   A = AGS PTR,LEG,2,1,99 (5 Dec 1521; cipher images 1-5, decipherment of 1521 images 9-10)
+#   B = AGS PTR,LEG,2,1,100 images 3-5 (undated sheet wholly in cipher; its text is the cipher
+#       paragraphs of the letter of 24 Oct 1521 as printed in Danvila, vol. 4, pp. 547-549)
+#   C = AGS PTR,LEG,2,1,101 (7 Dec 1521; cipher images 1-2, decipherment of 1521 image 3)
+#   D = AGS PTR,LEG,2,1,76 image 5 (a cipher paragraph written into the duplicate of the letter
+#       of 6 May 1521; Danvila prints its text deciphered as the third cipher paragraph of the
+#       letter of 23 May 1521, vol. 4, pp. 28-29)
+#   For the ten groups the paragraph needs, and for the four other added groups that the test
+#   passages use (co., sae., dob., cog.), the "where" column gives the image and the line of
+#   each place whose text the check spells with the key, what is written there and the
+#   deciphered text, as "tokens = text", with "and" between two items at the same place and
+#   "; " between places. Further places of co., sae. and dob. in A follow in brackets, by image
+#   only. docs/METHOD.md says how the lines are counted. For the other added groups the column
+#   names the image only.
+# The values were fixed before the test passage (data/test_passage.tsv) was transcribed. After
+# the test 23 groups were respelt, in this file and in the transcriptions together (round r,
+# tailed z, q for g, cim. for cm., rug. and rof.), Kolosova's qad. was entered, ga. and ge.
+# lost their marks of doubt, four groups whose places had not been checked again were removed,
+# and a second place, B image 5 line 13, was entered for gad. No group changed its word.
+# docs/METHOD.md has the list.
+group	value	source	where
+zi	aca	K
+zed	agra-	K
+yee	al	K
+zie	algun	K
+zoe	amor	K
+zuf	antes	K
+yic	assi	K
+yae	ahun	K
+yof	buen	K
+xo	cardenal	K
+xue	castillo	K
+vub	cierto	K
+teb	como	K
+vuh	con	K
+tu	cosa	K
+gif	quando	K
+sa	de	K
+taf	deve	K
+so	del	K
+su	des	K
+sib	dicho	K
+sic	dinero	K
+sie	don	K
+sig	ducado	K
+soe	duque	K
+seh	el	K
+soh	ello	K
+rac	embajador	K
+ri	en	K
+reb	envia	K
+raf	es	K
+ruc	esta	K
+roc	esto	K
+qec	fue	K
+qad	Genova	K
+po	ha	K
+pe	han	K
+pa	have	K
+pu	hay	K
+pic	hijo	K
+pih	imperio	K
+ned	la	K
+nad	las	K
+nud	le	K
+nuf	lo	K
+nof	los	K
+mab	maravilla	K
+nah	mas	K
+mef	me	K
+maf	menos	K
+mud	mente	K
+meg	mi	K
+muf	mire	K
+med	mismo	K
+mih	mos	K
+moh	muy	K
+mel	Napoles	K
+lu	ni	K
+leb	no	K
+lic	nuestra	K
+lec	nuestro	K
+luc	obispo	K
+hi	para	K
+hic	peor	K
+hid	place	K
+hag	poco	K
+hof	por	K
+gig	que	K
+fuf	re	K
+foh	sabe	K
+di	se	K
+dab	servi	K
+dic	sin	K
+tid	so	K
+did	son	K
+dig	su	K
+cab	todo	K
+cob	toma	K
+cad	tomo	K
+cam	una	K
+cag	Venecia	K
+ceg	vez	K
+ceh	virrey	K
+coh	visto	K
+cim	vuestra	K
+mu	Magestad	K
+cem	vuestro	K
+bu	ya	K
+ded	sola	S	A image 1 line 31: ri. cam. ded. tu. = en una sola cosa
+cu	tiempo	S	A image 1 line 34: so. cu. = del tiempo; A image 3 line 3: sa. cu. = de tiempo; A image 3 line 29: yee. sib. cu. = al dicho tiempo
+ru	entiende	S	A image 3 line 4: gig. ru. + n = que entienden; A image 3 line 29: ru. + n sa. nu. + r = entienden de juntar; B image 3 line 28: ru. + n = entienden
+ceb	toda	S	A image 3 line 31: ceb. + g-u-i-p-u-z-c-o-a = toda Guipuzcoa; B image 3 line 25: sa. ceb. yof. + a = de toda buena
+fed	real	S	A image 3 line 36: fed. raf. = reales; A image 4 line 2: c-o-r-o-n-a fed. = corona real
+gof	qual	S	A image 2 line 26: nof. gof. raf. = los quales; A image 4 line 4: nuf. gof. = lo qual; D image 5 line 30: hof. nuf. gof. = por lo qual
+neg	lugar	S	A image 2 line 27: ri. loh. + s neg. raf. = en otros lugares (ri. loh. + s at the end of line 26)
+qag	gran	S	B image 3 line 27: vuh. qag. su. = con grandes and nof. qag. su. = los grandes; C image 2 line 10: qag. sa. = grande
+gad	pues	S	B image 5 line 13: gad. = pues; C image 2 line 8: p-e-r-o su. gad. = pero despues
+fud	remedio	S	D image 5 line 32: cog. + d-a-d-e-r-o fud. = verdadero remedio (cog. + d-a at the end of line 31)
+fa	razon	S	A image 1
+zid	almirante	S	A images 1, 3; C image 2
+vod	condestable	S	A images 1, 3
+co	tiene	S	B image 3 line 26: gig. leb. co. + n = que no tienen; B image 3 line 27: lu. co. + n = ni tienen (also A images 1, 3)
+del	tene	S	A image 1 (leb. del. where the decipherment has "no tenemos")
+dog	tanto	S	A image 1 (twice)
+gef	quanto	S	A image 1 (twice)
+mif	menester	S	A images 1, 3
+yag	busca	S	A images 1, 3
+sae	do	S	B image 3 line 26: nof. dab. sae. + r raf. = los servidores; B image 3 line 27: sa. + u sae. = deudo (also A images 1, 2, 3)
+mag	miento	S	A images 1, 3; B image 3
+deh	tambien	S	A images 1, 2, 3
+hef	pode	S	A image 1
+yoe	bastimento	S	A images 1, 3
+dob	seria	S	D image 5 line 32: luh. mud. cab. dob. hob. + d-o = otramente todo seria perdido (also A image 1)
+sob	dize	S	A image 3 (twice)
+loh	otro	S	A images 2, 3
+gih	quiera	S	A image 2
+ho	pasa	S	A images 2, 3
+lib	nombre	S	A image 2
+fub	reyno	S	A image 2
+geh	quisie	S	A image 2
+muh	mucho	S	A images 2, 4; B image 3
+nu	junta	S	A image 3; C image 2
+luh	otra	S	A image 3; D image 5
+nog	manera	S	A image 3 (twice)
+qah	guarda	S	A image 3; C image 2
+mug	mayor	S	A image 3; B image 3
+laf	obediencia	S	A image 3
+doc	si	S	A image 3 (three times)
+dug	tanta	S	A image 3
+zee	allende	S	A image 3
+rud	esteril	S	A image 3
+dih	tal	S	A image 3
+xa	carga	S	A image 3
+fad	respecto	S	A image 3
+sid	dilata	S	A image 3
+rug	fasta	S	A image 3 (twice)
+vab	cerca	S	A image 3
+rib	entre	S	A image 3; B image 3
+qib	Francia	S	A image 3
+nag	luego	S	A image 3; D image 5
+peb	haver	S	A image 3
+dud	sobre	S	A image 3
+pi	halla	S	A image 3
+fig	roga	S	A image 4
+hab	palabra	S	B image 3
+rof	faze	S	A image 3; B image 3; C image 2
+lif	obra	S	B image 3
+cog	ver	S	D image 5 line 31: cog. + d-a-d-e-r-o = verdadero (d-e-r-o at the start of line 32)
+hob	perdi	S	D image 5
+ga	presta	S	A images 1, 3
+ge	presto	S	A image 2

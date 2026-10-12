@@ -1,0 +1,49 @@
+| line | as written | reads | values from |
+|---|---|---|---|
+| 1 | quanto | quanto | written in clear |
+| 1 | mas | mas | written in clear |
+| 1 | `q1 u3 i6 c1 a2` | quiça | `q1` from the letters of 1521; the rest Kolosova |
+| 1 | `roc.` | esto | Kolosova |
+| 1 | `d2 a3 r2 a4` | dara | Kolosova |
+| 1 | `fud.` | remedio | `fud.` from letter D |
+| 1 | `a2` | a | Kolosova |
+| 1 | `roc. s4` | estos | Kolosova |
+| 1 | `m2 a1 l4 e3 s1` | males | Kolosova |
+| 2 | `gig.` | que | Kolosova |
+| 2 | `leb.` | no | Kolosova |
+| 2 | `ded. mud.` | solamente | `ded.` from letter A; the rest Kolosova |
+| 2 | `di.` | se | Kolosova |
+| 2 | `m1 u1 e1 u2 e4 n3` | mueven | Kolosova |
+| 2 | `vuh. t1 r1 a2` | contra | Kolosova |
+| 2 | `s3 u3` | su | Kolosova |
+| 2 | `mu.` | Magestad | Kolosova, from the pair `cim. mu.` |
+| 2 | `nah.` | mas | Kolosova |
+| 2 | `yae.` | ahun | Kolosova |
+| 3 | `vuh. t2 r3 a3` | contra | Kolosova |
+| 3 | `cab. s4` | todos | Kolosova |
+| 3 | `nof.` | los | Kolosova |
+| 3 | `qag. su.` | grandes | `qag.` from letters B and C; the rest Kolosova |
+| 3 | `so. s1` | dels | Kolosova |
+| 3 | `gof. raf.` | quales | `gof.` from letters A and D; the rest Kolosova |
+| 3 | `ru. n3` | entienden | `ru.` from letters A and B; the rest Kolosova |
+| 3 | `p2 r3 i1 m2 e1 r1 a2 mud.` | primeramente | Kolosova |
+| 4 | `q2 u5 i4 t2 a2 r2` | quitar | `q2` from the letters of 1521; the rest Kolosova |
+| 4 | `ceb. s4` | todas | `ceb.` from letters A and B; the rest Kolosova |
+| 4 | `nad.` | las | Kolosova |
+| 4 | `a4 l4 c2 a3 u1 a2 l1 a1 s4` | alcavalas | Kolosova |
+| 4 | `i2` | y | Kolosova |
+| 4 | `su. gad.` | despues | `gad.` from letters B and C; the rest Kolosova |
+| 5 | `ceb. s3` | todas | `ceb.` from letters A and B; the rest Kolosova |
+| 5 | `nad.` | las | Kolosova |
+| 5 | `u2 i3 ll1 a3 s1` | villas | Kolosova |
+| 5 | `i5` | y | Kolosova |
+| 5 | `neg. raf.` | lugares | `neg.` from letter A; the rest Kolosova |
+| 5 | `gig.` | que | Kolosova |
+| 5 | `sa.` | de | Kolosova |
+| 5 | `hag.` | poco | Kolosova |
+| 5 | `cu.` | tiempo | `cu.` from letter A |
+| 5 | `zi.` | aca | Kolosova |
+| 5 | `qec. r1 o1 n3` | fueron | Kolosova |
+| 5 | `so. a3` | de la | Kolosova |
+| 6 | `c1 o3 r3 o1 n3 a2` | corona | Kolosova |
+| 6 | `fed.` | real | `fed.` from letter A |

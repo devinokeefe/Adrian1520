@@ -1,0 +1,18 @@
+| z | aca, agra-, algun, allende, almirante, amor, antes |
+| y | ahun, al, assi, bastimento, buen, busca |
+| x | cardenal, carga, castillo |
+| v | cerca, cierto, con, condestable |
+| t | como, cosa, deve, so |
+| s | de, del, des, dicho, dilata, dinero, dize, do, don, ducado, duque, el, ello |
+| r | embajador, en, entiende, entre, envia, es, esta, esteril, esto, fasta, faze |
+| q | Francia, fue, Genova, gran, guarda |
+| p | ha, halla, han, have, haver, hay, hijo, imperio |
+| n | junta, la, las, le, lo, los, luego, lugar, manera, mas |
+| m | Magestad, maravilla, mayor, me, menester, menos, mente, mi, miento, mire, mismo, mos, mucho, muy, Napoles |
+| l | ni, no, nombre, nuestra, nuestro, obediencia, obispo, obra, otra, otro |
+| h | palabra, para, pasa, peor, perdi, place, poco, pode, por |
+| g | presta, presto, pues, qual, quando, quanto, que, quiera, quisie |
+| f | razon, re, real, remedio, respecto, reyno, roga, sabe |
+| d | se, seria, servi, si, sin, sobre, sola, son, su, tal, tambien, tanta, tanto, tene |
+| c | tiempo, tiene, toda, todo, toma, tomo, una, Venecia, ver, vez, virrey, visto, vuestra, vuestro |
+| b | ya |

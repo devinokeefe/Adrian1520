@@ -1,0 +1,23 @@
+# What the second reader of the paragraph proposed, from the sense of the passage, for the places that
+# Kolosova's key left open, with the confidence (per cent) that the reader gave. The reader had what is
+# listed at the top of data/second_reading.txt. The proposals were made after that transcription and
+# recorded separately. Nothing in the key was taken from them.
+# token: the group or sign concerned, in the notation of data/paragraph.txt.
+# kind: group = one of the ten groups that the paragraph needs and Kolosova's vocabulary lacks;
+#   sign = a sign that the reader could not find in the table; other = a word or a reading.
+token	kind	proposal	confidence	note
+ded.	group	sola	90
+qag.	group	gran	85
+ceb.	group	toda	90
+neg.	group	lugar	90
+cu.	group	tiempo	90
+fed.	group	real	80
+gad.	group	pues	80
+fud.	group	remedio	50
+gof.	group	qual	45
+ru.	group	entiende	30	given as "a plural verb, perhaps entienden" for ru. with n
+q2	sign	q	85	the first sign of quitar, line 4
+m2	sign	m	90	the sign without its top bar in primeramente, line 3
+mu.	other	Majestad	85	Kolosova's vocabulary has mu. only in cim. mu., vuestra Magestad
+so. s1	other	de los	55	with dellos as the other possibility
+q1 u3 i6 c1 a2	other	publica	40	the first word in cipher, read as p-o-u-i-c-a with a slip by the clerk

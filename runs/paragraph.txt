@@ -1,0 +1,10 @@
+1  quanto mas q1=q u3=u i6=i c1=c a2=a roc.=esto d2=d a3=a r2=r a4=a fud.=remedio / a2=a roc.=esto s4=s / m2=m a1=a l4=l e3=e s1=s
+2  gig.=que leb.=no ded.=sola mud.=mente di.=se m1=m u1=u e1=e u2=u e4=e n3=n vuh.=con t1=t r1=r a2=a / s3=s u3=u . mu.=Magestad nah.=mas yae.=ahun
+3  vuh.=con t2=t r3=r a3=a / cab.=todo s4=s / nof.=los qag.=gran su.=des so.=del s1=s / gof.=qual raf.=es ru.=entiende n3=n / p2=p r3=r i1=i m2=m e1=e r1=r a2=a
+4  mud.=mente q2=q u5=u i4=i t2=t a2=a r2=r / ceb.=toda s4=s / nad.=las a4=a l4=l c2=c a3=a u1=u a2=a l1=l a1=a s4=s / i2=i su.=des gad.=pues
+5  ceb.=toda s3=s / nad.=las u2=u i3=i ll1=ll a3=a s1=s i5=i neg.=lugar raf.=es gig.=que sa.=de hag.=poco cu.=tiempo zi.=aca qec.=fue r1=r o1=o n3=n so.=del a3=a /
+6  c1=c o3=o r3=r o1=o n3=n a2=a fed.=real /
+
+the key gives:  quanto mas quica esto dara remedio a estos males que no solamente se mueuen contra su Magestad mas ahun contra todos los grandes dels quales entienden primeramente quitar todas las alcaualas i despues todas las uillas i lugares que de poco tiempo aca fueron dela corona real
+the reading is: {Quanto mas} quiça esto dara remedio a estos males, que no solamente se mueven contra su Magestad mas ahun contra todos los grandes, dels quales entienden primeramente quitar todas las alcavalas y despues todas las villas y lugares que de poco tiempo aca fueron de la corona real.
+the same letters, apart from c/ç, u/v and i/y, which the cipher does not distinguish

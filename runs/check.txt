@@ -1,0 +1,79 @@
+ok    every token of the paragraph has a value in the key
+ok    the letters the key gives are the letters of the reading
+ok    every added group in the paragraph names the image and the line where it was found
+ok    the words file has the tokens of the paragraph in order
+ok    each word is what its own tokens spell
+ok    the words in order are the words of the reading
+ok    the word dividers and the stray dot stand between words
+ok    test passage: no group or sign that the key covers disagrees with 1521
+ok    test passage: the decipherment column is the decipherment quoted in docs/METHOD.md
+ok    test passage: each word that the clerk wrote in clear is the decipherment's word
+ok    test passage: the number of shorter spellings named in docs/METHOD.md is the number listed there
+ok    passage of 1520: every word the key reads is the print's, or the other word the file names
+ok    passage of 1520: the words of the print in the file come in order in the print quoted in docs/METHOD.md
+ok    second transcription: each place where it differs from data/paragraph.txt is named in docs/METHOD.md
+ok    second transcription: the groups corrected from it and the signs identified from the reader's description are in both transcriptions
+ok    second reading: at every point on groups of the key the tokens found give the word with the key's values
+ok    second reading: the points on the sign for q name signs that are q
+ok    second reading: every place of the points is shown in a crop in images/parallels
+ok    second reading: the proposals for the ten groups and the two signs are the key's
+ok    control: a changed group value breaks the reading check
+ok    control: two exchanged signs break the reading check
+ok    control: a group removed from the key is reported as missing
+ok    control: a word with a token moved to the next breaks the word checks
+ok    control: a changed group value is caught by the test passage
+ok    control: two exchanged signs are caught by the test passage
+ok    control: a pair of look-alike signs that gives neither letter is caught by the test passage
+ok    control: a changed group value in a word of the print is caught by the passage of 1520
+ok    control: a changed group value in a word the file names is caught by the passage of 1520
+ok    control: a changed group value is caught by the points on the parallels
+ok    control: a group respelt in the first transcription shows as a difference from the second
+ok    the recorded figures are the ones computed now
+ok    every figure quoted in the pages is the computed one
+ok    control: every quoted figure fails when the computed one is one higher
+ok    control: a number inside a longer number does not count as quoted
+ok    the transcription in docs/TEXT.md is the one in data/paragraph.txt, line for line
+ok    the table in docs/TEXT.md is the one the data give, row for row
+ok    the vocabulary table in docs/METHOD.md is the one the data give, row for row
+ok    the table of the points on the parallels in docs/METHOD.md is the one the data give, row for row
+ok    the points that have two rows in that table, and the points it omits, are the ones docs/METHOD.md names
+ok    every picture in images/ has a box in images/README.md, of its size or a third of it for the details (29 boxes)
+ok    the first line as README.md displays it is line 1 of the paragraph
+ok    the two signs for a in *dara* are different, as README.md says
+ok    every value given for a group of the key in the forms that README.md names is the key's (43 places)
+ok    the evidence for the ten groups in data/groups.tsv spells, with the key, the deciphered text
+ok    the evidence for the other added groups that the tests use spells the deciphered text, and each place has its crop
+ok    the table of the ten groups in docs/METHOD.md gives the evidence of data/groups.tsv, item for item
+ok    the deciphered words that README.md gives for the ten groups are in their evidence
+ok    the groups that README.md names as resting on a single place are the ones that do
+ok    the one group of the ten in the first test is the one README.md names
+ok    the second test has none of the ten groups and neither test has a q, as README.md says
+ok    the values from letter C all come from its second image, as README.md and docs/METHOD.md say
+ok    each sign for q begins in the paragraph the word that docs/METHOD.md names
+ok    the places linked for each sign for q include those of the points on it, and each has its crop
+ok    the signs of the first test that are not in the table, and the look-alike pair, are as docs/METHOD.md says
+ok    the added groups of the first test are the ones docs/METHOD.md names, as often as it says
+ok    each point of the parallels that docs/METHOD.md describes in words is the point of data/parallels.tsv
+ok    each point that rests on judgement in docs/TEXT.md is in the line it names
+ok    *primeramente* runs from the end of line 3 to the start of line 4, as docs/TEXT.md says
+ok    the letter from Logroño has the same date and page in README.md and docs/SOURCES.md
+ok    the PARES numbers in README.md, data/README.md and images/README.md are those of docs/SOURCES.md
+ok    the words of 1520 that differ from the print are the ones named in README.md and docs/METHOD.md
+ok    the groups given as examples in README.md have the values of the key
+ok    the ten added groups in docs/METHOD.md have the values of the key
+ok    the ten added groups in docs/METHOD.md are placed where data/groups.tsv places them
+ok    each place in that table links to the crop that shows its line
+ok    the words in clear in docs/METHOD.md are those of data/clear_words.tsv, each linked to its crop
+ok    none of the ten added groups rests on letter B alone
+ok    the groups of the test passage that docs/METHOD.md names as not in the key are the ones the key lacks
+ok    each count in the list of respelt groups in docs/METHOD.md is the number of groups named, all in the key
+ok    the groups that docs/METHOD.md says were removed are as many as it says, and in no passage or the key
+ok    the entries that docs/METHOD.md says changed with the respellings are as many as it says, in the key, and in no passage
+ok    the letters of 1521 are eight to fifteen months later than the paragraph, as docs/METHOD.md says
+ok    the points that docs/METHOD.md says made the two other changes are the points on other matters, [9, 22]
+ok    the points that tests/TESTS.md names for *juntar* and *embajador* are those of the parallels and of docs/TEXT.md
+ok    the letters A to D in docs/METHOD.md have the dates used here
+ok    the reading printed in README.md and docs/TEXT.md is the one in data/reading.txt
+ok    the translation printed in README.md and docs/TEXT.md is the one in data/translation.txt
+ok    every relative link in the pages points to a file
+78 of 78 checks passed

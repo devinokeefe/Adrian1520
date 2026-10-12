@@ -1,0 +1,72 @@
+# Checks the list of files and the style of the scripts, runs the script in each of its modes and the
+# mutation test, and compares what they print with the records in runs/ and data/figures.txt, under Linux
+# and under Windows with Python 3.12, and under Linux with Python 3.10, the oldest version the script
+# supports.
+#
+# The versions of the runners and of ruff are fixed, because a new version of ruff can bring a new rule.
+name: check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+# bash with pipefail: in "script | diff", a script that fails must fail the step
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  files:
+    name: list of files and style
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install ruff
+        run: pip install ruff==0.15.1
+      - name: The files are the listed ones, and the list is complete
+        run: |
+          sha256sum -c --quiet SHA256SUMS.txt
+          bash tools/make_sums.sh
+          git diff --exit-code -- SHA256SUMS.txt
+      - name: Style of the Python files
+        run: |
+          ruff check .
+          ruff format --check .
+
+  checks:
+    name: checks and records, ${{ matrix.os }}, Python ${{ matrix.python }}
+    strategy:
+      matrix:
+        include:
+          - os: ubuntu-24.04
+            python: "3.12"
+          - os: windows-2025
+            python: "3.12"
+          - os: ubuntu-24.04
+            python: "3.10"
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python }}
+      - name: The checks
+        run: python code/decode.py --check | diff - runs/check.txt
+      - name: What the script prints in its other modes
+        run: |
+          python code/decode.py | diff - runs/paragraph.txt
+          python code/decode.py --test | diff - runs/test.txt
+          python code/decode.py --1520 | diff - runs/1520.txt
+          python code/decode.py --second | diff - runs/second.txt
+          python code/decode.py --table | diff - runs/table.txt
+          python code/decode.py --blocks | diff - runs/blocks.txt
+          python code/decode.py --figures | diff - data/figures.txt
+      - name: The mutation test
+        run: python tests/mutation_test.py | diff - runs/mutation_test.txt

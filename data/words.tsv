@@ -1,0 +1,51 @@
+# The paragraph divided into words: the line on which each word begins, its tokens as in
+# data/paragraph.txt (without the word dividers and the stray dot), and the word as read.
+# "primeramente" runs over the end of line 3. "de la" is written as one group and one sign.
+line	tokens	word
+1	=quanto	quanto
+1	=mas	mas
+1	q1 u3 i6 c1 a2	quiça
+1	roc.	esto
+1	d2 a3 r2 a4	dara
+1	fud.	remedio
+1	a2	a
+1	roc. s4	estos
+1	m2 a1 l4 e3 s1	males
+2	gig.	que
+2	leb.	no
+2	ded. mud.	solamente
+2	di.	se
+2	m1 u1 e1 u2 e4 n3	mueven
+2	vuh. t1 r1 a2	contra
+2	s3 u3	su
+2	mu.	Magestad
+2	nah.	mas
+2	yae.	ahun
+3	vuh. t2 r3 a3	contra
+3	cab. s4	todos
+3	nof.	los
+3	qag. su.	grandes
+3	so. s1	dels
+3	gof. raf.	quales
+3	ru. n3	entienden
+3	p2 r3 i1 m2 e1 r1 a2 mud.	primeramente
+4	q2 u5 i4 t2 a2 r2	quitar
+4	ceb. s4	todas
+4	nad.	las
+4	a4 l4 c2 a3 u1 a2 l1 a1 s4	alcavalas
+4	i2	y
+4	su. gad.	despues
+5	ceb. s3	todas
+5	nad.	las
+5	u2 i3 ll1 a3 s1	villas
+5	i5	y
+5	neg. raf.	lugares
+5	gig.	que
+5	sa.	de
+5	hag.	poco
+5	cu.	tiempo
+5	zi.	aca
+5	qec. r1 o1 n3	fueron
+5	so. a3	de la
+6	c1 o3 r3 o1 n3 a2	corona
+6	fed.	real

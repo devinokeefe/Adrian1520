@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this reading, the transcriptions, the added part of the key or the script, please cite this repository."
+title: "The cipher paragraph in Adrian of Utrecht's letter to Charles V, 9 September 1520"
+type: dataset
+authors:
+  - family-names: "O'Keefe"
+    given-names: "Devin"
+    email: "okeefede@tcd.ie"
+version: "1.0.0"
+date-released: "2026-10-12"
+# The licence named here is that of the pages, the files in data/, the records in runs/ and this file.
+# The script, the mutation test, tools/make_sums.sh, the workflow and the configuration files are under
+# MIT (LICENSE); the signs and groups marked K in data/ come from Olga Kolosova's thesis, and the pictures
+# in images/ are from PARES.  README.md says which files are which.  (A list of licences here would mean a
+# choice between them.)
+license: CC-BY-4.0
+repository-code: "https://github.com/devinokeefe/Adrian1520"
+keywords:
+  - "Adrian of Utrecht"
+  - "Charles V"
+  - "Comunidades de Castilla"
+  - "nomenclator"
+  - "cipher"
+  - "Archivo General de Simancas"
+  - "history of cryptography"

@@ -1,0 +1,88 @@
+paragraph lines	6
+paragraph groups	38
+paragraph distinct groups	29
+paragraph distinct groups from the published key	19
+paragraph distinct groups from the parallels	10
+paragraph letter signs	74
+paragraph distinct letter signs	39
+paragraph signs and groups	112
+paragraph words	48
+paragraph words in clear	2
+paragraph words in cipher	46
+commas in the reading	2
+signs of dara	4
+points of judgement in docs/TEXT.md besides the dot	4
+groups in the key, published	88
+groups in the key, published, without mu.	87
+groups in the key, added	63
+letters of 1521 used for the key	4
+shortest group	2
+longest group	3
+added groups resting on one place	3
+added groups that the tests use besides the ten	4
+added groups named by image only	49
+places of cu.	3
+places of ru.	3
+places of the first sign for q	4
+groups among the ten that neither test uses	9
+confidence of the proposal for ru.	30
+test passage lines	6
+test groups	35
+test groups in the key	31
+test groups agreeing	31
+test groups not in the key	4
+test groups from the published key	27
+test groups from the added part	4
+test groups among the ten	1
+test letter signs	93
+test letter signs matched to one sign	90
+test letter signs not matched to one sign	3
+test letter signs agreeing	90
+test look-alike pairs	1
+test signs not in the table	2
+test signs for q	0
+test words spelt more briefly, as named	3
+1520 passage words	22
+1520 passage words the key reads	20
+1520 passage words the key cannot read	2
+1520 passage words the same as the print	16
+1520 passage words that differ from the print	4
+1520 passage groups	15
+1520 passage letter signs	43
+1520 passage added groups	3
+1520 passage groups among the ten	0
+1520 passage signs for q	0
+signs in the published table	65
+letters in the published table	21
+most signs for one letter in the published table	7
+fewest signs for one letter in the published table	1
+signs for q	2
+groups in the key	151
+groups respelt after the test, as listed	23
+groups removed after the test	4
+sets of respelt groups	5
+groups respelt after the test, from the published key	13
+second reading places	112
+second reading places the same	111
+second reading places that differ	1
+second reading stretches that differ	1
+second reading places corrected in the first from it	2
+second reading signs identified from a description	2
+second reading groups with the letters mapped	6
+proposals for the ten groups	10
+proposals for the ten groups that are the key's	10
+proposals for the ten groups at 80 or more	7
+proposals for the ten groups at 50 or less	3
+proposals for the ten groups given as one word that are the key's	9
+proposals for the ten groups given as one word at 50 or less	2
+parallel points	29
+parallel points on groups of the key	25
+parallel places on groups of the key	27
+parallel places where the key gives the word	27
+parallel points on the sign for q	2
+parallel places of the sign for q	5
+words in clear within the cipher, omitted	12
+words in clear within the cipher, read	3
+words in clear within the cipher, omitted in Danvila's print of B and D	11
+words in clear within the cipher, omitted in the decipherment of C	1
+words in clear within the cipher, read in the decipherment of C	2

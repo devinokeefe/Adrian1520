@@ -1,0 +1,135 @@
+1  =Lo     key: Lo         1521: Lo         in clear
+1  =que    key: que        1521: que        in clear
+1  daf.    key: -          1521: scrivi     not in the key
+1  mih.    key: mos        1521: mos        agrees
+1  a4      key: a          1521: a          agrees
+1  cim.    key: vuestra    1521: vuestra    agrees
+1  mu.     key: Magestad   1521: magestad   agrees
+1  so.     key: del        1521: del        agrees
+1  a1      key: a          1521: a          agrees
+1  vuh.    key: con        1521: con        agrees
+1  c2      key: c          1521: c          agrees
+1  e4      key: e          1521: e          agrees
+1  s2      key: s          1521: s          agrees
+1  i1      key: i          1521: i          agrees
+1  o3      key: o          1521: o          agrees
+1  n3      key: n          1521: n          agrees
+1  so.     key: del        1521: del        agrees
+1  o1      key: o          1521: o          agrees
+1  s4      key: s          1521: s          agrees
+1  c1      key: c          1521: c          agrees
+1  a4      key: a          1521: a          agrees
+1  p1      key: p          1521: p          agrees
+1  i6      key: i          1521: i          agrees
+2  t2      key: t          1521: t          agrees
+2  u1      key: u          1521: u          agrees
+2  nof.    key: los        1521: los        agrees
+2  o1      key: o          1521: o          agrees
+2  p3      key: p          1521: p          agrees
+2  a3      key: a          1521: a          agrees
+2  r1      key: r          1521: r          agrees
+2  t1      key: t          1521: t          agrees
+2  e1      key: e          1521: e          agrees
+2  d2      key: d          1521: d          agrees
+2  soh.    key: ello       1521: ello       agrees
+2  a2      key: a          1521: a          agrees
+2  n2      key: n          1521: n          agrees
+2  t2      key: t          1521: t          agrees
+2  e3      key: e          1521: e          agrees
+2  s1      key: s          1521: s          agrees
+2  u1      key: u          1521: u          agrees
+2  u2      key: u          1521: v          agrees
+2  e2      key: e          1521: e          agrees
+2  n1      key: n          1521: n          agrees
+2  i4      key: i          1521: i          agrees
+2  d3      key: d          1521: d          agrees
+2  a2      key: a          1521: a          agrees
+2  leb.    key: no         1521: no         agrees
+2  mef.    key: me         1521: me         agrees
+2  p2      key: p          1521: p          agrees
+2  a3      key: a          1521: a          agrees
+3  r3      key: r          1521: r          agrees
+3  e4      key: e          1521: e          agrees
+3  c1      key: c          1521: c          agrees
+3  e3      key: e          1521: e          agrees
+3  gig.    key: que        1521: que        agrees
+3  tib.    key: -          1521: conviene   not in the key
+4  c2      key: c          1521: c          agrees
+4  a4      key: a          1521: a          agrees
+4  o3      key: o          1521: o          agrees
+4  t1      key: t          1521: t          agrees
+4  o1      key: o          1521: o          agrees
+4  r3      key: r          1521: r          agrees
+4  g1      key: g          1521: g          agrees
+4  a2      key: a          1521: a          agrees
+4  n2      key: n          1521: n          agrees
+4  sae.    key: do         1521: do         agrees
+4  cab.    key: todo       1521: todo       agrees
+4  s4      key: s          1521: s          agrees
+4  nof.    key: los        1521: los        agrees
+4  c1      key: c          1521: c          agrees
+4  a3      key: a          1521: a          agrees
+4  p1      key: p          1521: p          agrees
+4  i6      key: i          1521: i          agrees
+4  t2      key: t          1521: t          agrees
+4  u3      key: u          1521: u          agrees
+4  nof.    key: los        1521: los        agrees
+4  dob.    key: seria      1521: seria      agrees
+4  d2      key: d          1521: d          agrees
+4  a2      key: a          1521: a          agrees
+4  n2      key: n          1521: n          agrees
+4  bab.    key: -          1521: yo         not in the key
+4  s1      key: s          1521: s          agrees
+4  o3      key: o          1521: o          agrees
+5  a4      key: a          1521: a          agrees
+5  cim.    key: vuestra    1521: vuestra    agrees
+5  mu.     key: Magestad   1521: magestad   agrees
+5  i2      key: i          1521: y          agrees
+5  vuh.    key: con        1521: con        agrees
+5  c2      key: c          1521: c          agrees
+5  e2      key: e          1521: e          agrees
+5  p1|d3   key: p|d        1521: d          agrees
+5  i6      key: i          1521: i          agrees
+5  ri.     key: en         1521: en         agrees
+5  sae.    key: do         1521: do         agrees
+5  dah.    key: -          1521: tan        not in the key
+5  ded.    key: sola       1521: sola       agrees
+5  mud.    key: mente      1521: mente      agrees
+5  p1      key: p          1521: p          agrees
+5  a3      key: a          1521: a          agrees
+5  r3      key: r          1521: r          agrees
+5  t1      key: t          1521: t          agrees
+5  e1      key: e          1521: e          agrees
+5  d2      key: d          1521: d          agrees
+5  soh.    key: ello       1521: ello       agrees
+5  s4      key: s          1521: s          agrees
+6  seh.    key: el         1521: el         agrees
+6  p1      key: p          1521: p          agrees
+6  u3      key: u          1521: u          agrees
+6  e1      key: e          1521: e          agrees
+6  X1      key: -          1521: b          not in the key
+6  l1      key: l          1521: l          agrees
+6  o4      key: o          1521: o          agrees
+6  di.     key: se         1521: se         agrees
+6  vuh.    key: con        1521: con        agrees
+6  t1      key: t          1521: t          agrees
+6  ri.     key: en         1521: en         agrees
+6  X2      key: -          1521: t          not in the key
+6  a3      key: a          1521: a          agrees
+6  r1      key: r          1521: r          agrees
+6  i6      key: i          1521: i          agrees
+6  a2      key: a          1521: a          agrees
+6  hag.    key: poco       1521: poco       agrees
+6  ri.     key: en         1521: en         agrees
+6  a2      key: a          1521: a          agrees
+6  u1      key: u          1521: u          agrees
+6  s4      key: s          1521: s          agrees
+6  ri.     key: en         1521: en         agrees
+6  c3      key: c          1521: c          agrees
+6  i1      key: i          1521: i          agrees
+6  a1      key: a          1521: a          agrees
+
+groups: 35, of which 31 are in the key; 31 of those agree with the decipherment
+letter signs: 93, of which 90 match one sign of the table; 90 of those agree
+look-alike pairs: 1, of which 1 contain the letter of the decipherment
+not in the key: daf. tib. bab. dah. X1 X2

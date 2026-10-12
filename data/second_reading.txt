@@ -1,0 +1,21 @@
+# A second transcription of the paragraph (AGS, PTR,LEG,2,1,19, image 1), made from enlargements of the
+# same image with the first transcription out of view. The reader had Kolosova's table of signs and
+# vocabulary (thesis, pp. 227 and 249-250), but not the letters of 1521 or the rest of the letter of 1520,
+# apart from five lines of clear text around the paragraph in two overview images. docs/METHOD.md gives
+# the instructions. The reader named each sign by its letter and its place in the table ("a, third sign"),
+# and the names are written here in the notation of data/paragraph.txt (a3).
+# The reader wrote the 2-shaped r of the groups as z, as the first transcription then did, and the tailed
+# z as ʒ. code/decode.py maps the two before comparing (z to r, ʒ to z).
+# Two signs the reader could not find in the table and described in words. In line 3 an "L with a loop",
+# which the reader likened to m2 without its top bar, is written m2. In line 4 "a small o with a side
+# stroke and a looped tail" is written q2, the id that data/signs.tsv gives the same shape.
+# The first transcription had read the first letter of qag. and qec. as g, and was corrected from this one.
+# The two lines below are read by code/decode.py.
+# corrected in the first from this reading: qag. qec.
+# identified from a description: m2 q2
+1	=quanto =mas p1 o4 u3 i6 c1 a2 zoc. d2 a3 r2 a4 fud. / a2 zoc. s4 / m2 a1 l4 e3 s1
+2	gig. leb. ded. mud. di. m1 u1 e1 u2 e4 n3 vuh. t1 r1 a2 / s3 u3 . mu. nah. yae.
+3	vuh. t2 r3 a3 / cab. s4 / nof. qag. su. so. s1 / gof. zaf. zu. n3 / p2 r3 i1 m2 e1 r1 a2
+4	mud. q2 u5 i4 t2 a2 r2 / ceb. s4 / nad. a4 l4 c2 a3 u1 a2 l1 a1 s4 / i2 su. gad.
+5	ceb. s3 / nad. u2 i3 ll1 a3 s1 i5 neg. zaf. gig. sa. hag. cu. ʒi. qec. r1 o1 n3 so. a3 /
+6	c1 o3 r3 o1 n3 a2 fed. /

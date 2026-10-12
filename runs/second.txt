@@ -1,0 +1,86 @@
+second transcription, with z read as r and ʒ as z in the groups:
+  places in the first: 112; the second has the same sign or group at 111
+  the first has q1 where the second has p1 o4
+
+proposals from the sense of the passage:
+  ded.            sola          90  the key's
+  qag.            gran          85  the key's
+  ceb.            toda          90  the key's
+  neg.            lugar         90  the key's
+  cu.             tiempo        90  the key's
+  fed.            real          80  the key's
+  gad.            pues          80  the key's
+  fud.            remedio       50  the key's
+  gof.            qual          45  the key's
+  ru.             entiende      30  the key's
+  q2              q             85  the key's
+  m2              m             90  the key's
+  mu.             Majestad      85
+  so. s1          de los        55
+  q1 u3 i6 c1 a2  publica       40
+
+points on the parallels:
+   1  A 1 31  sola           ded.                     the key gives the word
+   2  A 1 34  tiempo         cu.                      the key gives the word
+   3  A 1 32  es             raf.                     the key gives the word
+   4  A 2 26  quales         gof. raf.                the key gives the word
+   5  A 2 27  lugares        neg. raf.                the key gives the word
+   6  A 2 30  des            su.                      the key gives the word
+   7  A 3  3  tiempo         cu.                      the key gives the word
+   8  A 3  4  entienden      ru. +n                   the key gives the word
+   9  A 3  3  o              +o                       other
+  10  A 3 29  entienden      ru. +n                   the key gives the word
+  11  A 3 29  juntar         nu. +r                   the key gives the word
+  12  A 3 29  tiempo         cu.                      the key gives the word
+  13  A 3 31  toda           ceb.                     the key gives the word
+  14  A 3 36  reales         fed. raf.                the key gives the word
+  15  A 4  2  corona real    +c +o +r +o +n +a fed.   the key gives the word
+  16  A 4  4  qual           gof.                     the key gives the word
+  17  A 3 32  q              q1                       q
+  17  A 3 33  q              q2                       q
+  17  A 4  1  q              q1                       q
+  18  B 3 24  poco           hag.                     the key gives the word
+  19  B 3 25  toda           ceb.                     the key gives the word
+  20  B 3 27  grandes        qag. su.                 the key gives the word
+  20  B 3 27  grandes        qag. su.                 the key gives the word
+  21  B 3 28  entienden      ru. +n                   the key gives the word
+  22  B 3 28  gouernadores   nof. qof. raf.           other
+  23  B 3 21  q              q1                       q
+  23  B 3 26  q              q2                       q
+  24  C 2  8  despues        su. gad.                 the key gives the word
+  25  C 2 10  grande         qag. sa.                 the key gives the word
+  26  C 2 10  juntar         nu. +r                   the key gives the word
+  27  D 5 32  remedio        fud.                     the key gives the word
+  28  D 5 30  qual           gof.                     the key gives the word
+  29  D 5 31  todo           cab.                     the key gives the word
+  29  D 5 32  todo           cab.                     the key gives the word
+
+| point | place | word | tokens found | with the key's values |
+|---|---|---|---|---|
+| 1 | A, image 1, line 31 | sola | `ded.` | sola |
+| 2 | A, image 1, line 34 | tiempo | `cu.` | tiempo |
+| 3 | A, image 1, line 32 | es | `raf.` | es |
+| 4 | A, image 2, line 26 | quales | `gof. raf.` | qual-es |
+| 5 | A, image 2, line 27 | lugares | `neg. raf.` | lugar-es |
+| 6 | A, image 2, line 30 | des | `su.` | des |
+| 7 | A, image 3, line 3 | tiempo | `cu.` | tiempo |
+| 8 | A, image 3, line 4 | entienden | `ru.` + n | entiende-n |
+| 10 | A, image 3, line 29 | entienden | `ru.` + n | entiende-n |
+| 11 | A, image 3, line 29 | juntar | `nu.` + r | junta-r |
+| 12 | A, image 3, line 29 | tiempo | `cu.` | tiempo |
+| 13 | A, image 3, line 31 | toda | `ceb.` | toda |
+| 14 | A, image 3, line 36 | reales | `fed. raf.` | real-es |
+| 15 | A, image 4, line 2 | corona real | c-o-r-o-n-a `fed.` | c-o-r-o-n-a real |
+| 16 | A, image 4, line 4 | qual | `gof.` | qual |
+| 18 | B, image 3, line 24 | poco | `hag.` | poco |
+| 19 | B, image 3, line 25 | toda | `ceb.` | toda |
+| 20 | B, image 3, line 27 | grandes | `qag. su.` | gran-des |
+| 20 | B, image 3, line 27 | grandes | `qag. su.` | gran-des |
+| 21 | B, image 3, line 28 | entienden | `ru.` + n | entiende-n |
+| 24 | C, image 2, line 8 | despues | `su. gad.` | des-pues |
+| 25 | C, image 2, line 10 | grande | `qag. sa.` | gran-de |
+| 26 | C, image 2, line 10 | juntar | `nu.` + r | junta-r |
+| 27 | D, image 5, line 32 | remedio | `fud.` | remedio |
+| 28 | D, image 5, line 30 | qual | `gof.` | qual |
+| 29 | D, image 5, line 31 | todo | `cab.` | todo |
+| 29 | D, image 5, line 32 | todo | `cab.` | todo |

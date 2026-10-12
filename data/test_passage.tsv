@@ -1,0 +1,165 @@
+# Test passage: the first six lines of the cipher paragraph on the first image of the cardinal's
+# letter of 7 December 1521 (AGS, PTR,LEG,2,1,101, image 1), transcribed after the key was fixed.
+# Second column: what the decipherment made in 1521 (same record, image 3) has at that place.
+# The decipherment reads: "Lo que scrivimos a v. mad de la concession de los capitulos o parte
+# dellos ante su venida no me parece que conviene [...] ca ottorgando todos los capitulos seria
+# danyoso a v. mad y concediendo tan solamente parte dellos el pueblo se contentaria poco en
+# ausencia". The dots stand for the second half of line 3, which the clerk wrote in clear
+# ("haviendo vra al. de venir tan presto como lo scrive y es necessario").
+# The cipher spells three words more briefly than the decipherment: concesion, otorgando, and
+# dello where the decipherment has dellos. The comparison is token by token and does not show
+# this.
+# Where the decipherment abbreviates vuestra magestad as v. mad, the column has the two words in
+# full against cim. mu.
+# Tokens as in data/paragraph.txt. p1|d3 = one of two signs that look alike in the scan.
+# The four groups without a value in data/groups.tsv (daf., tib., bab., dah.) are left as
+# they were found; the decipherment has scrivi, conviene, yo and tan at those places.
+# X1, X2 = signs that are not in the table (X1: B with a stroke and a small ring; X2: L with a
+# small ring at the foot).
+token	decipherment	line
+=Lo	Lo	1
+=que	que	1
+daf.	scrivi	1
+mih.	mos	1
+/		1
+a4	a	1
+cim.	vuestra	1
+mu.	magestad	1
+so.	del	1
+a1	a	1
+vuh.	con	1
+c2	c	1
+e4	e	1
+s2	s	1
+i1	i	1
+o3	o	1
+n3	n	1
+so.	del	1
+o1	o	1
+s4	s	1
+/		1
+c1	c	1
+a4	a	1
+p1	p	1
+i6	i	1
+t2	t	2
+u1	u	2
+nof.	los	2
+/		2
+o1	o	2
+p3	p	2
+a3	a	2
+r1	r	2
+t1	t	2
+e1	e	2
+d2	d	2
+soh.	ello	2
+a2	a	2
+n2	n	2
+t2	t	2
+e3	e	2
+s1	s	2
+u1	u	2
+u2	v	2
+e2	e	2
+n1	n	2
+i4	i	2
+d3	d	2
+a2	a	2
+leb.	no	2
+mef.	me	2
+p2	p	2
+a3	a	2
+r3	r	3
+e4	e	3
+c1	c	3
+e3	e	3
+gig.	que	3
+tib.	conviene	3
+c2	c	4
+a4	a	4
+/		4
+o3	o	4
+t1	t	4
+o1	o	4
+r3	r	4
+g1	g	4
+a2	a	4
+n2	n	4
+sae.	do	4
+/		4
+cab.	todo	4
+s4	s	4
+/		4
+nof.	los	4
+/		4
+c1	c	4
+a3	a	4
+p1	p	4
+i6	i	4
+t2	t	4
+u3	u	4
+nof.	los	4
+/		4
+dob.	seria	4
+d2	d	4
+a2	a	4
+n2	n	4
+bab.	yo	4
+s1	s	4
+o3	o	4
+/		4
+a4	a	5
+cim.	vuestra	5
+mu.	magestad	5
+i2	y	5
+vuh.	con	5
+c2	c	5
+e2	e	5
+p1|d3	d	5
+i6	i	5
+ri.	en	5
+sae.	do	5
+/		5
+dah.	tan	5
+ded.	sola	5
+mud.	mente	5
+/		5
+p1	p	5
+a3	a	5
+r3	r	5
+t1	t	5
+e1	e	5
+/		5
+d2	d	5
+soh.	ello	5
+s4	s	5
+/		5
+seh.	el	6
+p1	p	6
+u3	u	6
+e1	e	6
+X1	b	6
+l1	l	6
+o4	o	6
+/		6
+di.	se	6
+vuh.	con	6
+t1	t	6
+ri.	en	6
+X2	t	6
+a3	a	6
+r1	r	6
+i6	i	6
+a2	a	6
+/		6
+hag.	poco	6
+ri.	en	6
+a2	a	6
+u1	u	6
+s4	s	6
+ri.	en	6
+c3	c	6
+i1	i	6
+a1	a	6
+/		6

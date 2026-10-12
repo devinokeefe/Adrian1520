@@ -1,0 +1,77 @@
+# Letter signs of the cardinal of Tortosa's cipher, 1520-1521.
+# id: letter plus the position of the sign in the column of that letter in Kolosova's thesis, p. 227
+#     (first sign from the top = 1). The shape column is a plain description for finding the sign
+#     in that table.
+# source K = Kolosova's table; S = found in this study (see docs/METHOD.md).
+# The u signs serve for u and v, the i signs for i, j and y, the c signs for c and c-cedilla.
+# Kolosova heads the u column "b*/u/v". In the letters read here b has signs of its own, which
+# are not in Kolosova's table and are not needed for the paragraph (see data/test_passage.tsv).
+# The table in the thesis draws f1 and h3 alike. Neither occurs in the passages transcribed here.
+id	letter	shape	source
+a1	a	B with two strokes across it	K
+a2	a	4	K
+a3	a	9	K
+a4	a	c and f joined, with a loop below	K
+u1	u	g with two strokes	K
+u2	u	two small rings joined by a crossed stroke	K
+u3	u	m	K
+u4	u	Q-shaped sign	K
+u5	u	looped d with a small ring at the right	K
+c1	c	theta-like sign	K
+c2	c	z	K
+c3	c	B	K
+d1	d	3	K
+d2	d	two small rings side by side, joined	K
+d3	d	H	K
+e1	e	looped d (delta-like)	K
+e2	e	3 with a bar across	K
+e3	e	h with the stem bent (h-like)	K
+e4	e	M	K
+f1	f	spiral e, like @	K
+f2	f	7	K
+f3	f	P	K
+g1	g	figure 8 lying on its side	K
+g2	g	6	K
+h1	h	8	K
+h2	h	alpha-like cross	K
+h3	h	spiral e, like @ (drawn as f1)	K
+i1	i	a with two strokes	K
+i2	i	alpha	K
+i3	i	L (or I) with two strokes	K
+i4	i	Z with a bar across the middle	K
+i5	i	n	K
+i6	i	m with a small ring at the right	K
+i7	i	z and p joined	K
+l1	l	n with two strokes	K
+l2	l	o with two strokes	K
+l3	l	triangle, point down	K
+l4	l	c with two strokes	K
+ll1	ll	b	K
+m1	m	q-like loop on a crossed stem	K
+m2	m	flat top stroke with a 6-shaped loop below (Z-like)	K
+n1	n	c	K
+n2	n	z with two strokes	K
+n3	n	ampersand-like sign	K
+o1	o	hash sign	K
+o2	o	p with two bars across the stem	K
+o3	o	two bars with a dot below	K
+o4	o	f with a dot above	K
+p1	p	tt	K
+p2	p	a joined to a small ring	K
+p3	p	L with a serif (I-like)	K
+r1	r	upright on a base line (inverted T)	K
+r2	r	g with a second loop	K
+r3	r	p with a stroke across the stem	K
+rr1	rr	reversed 6 (open loop)	K
+s1	s	p	K
+s2	s	e	K
+s3	s	q with two bars across the stem	K
+s4	s	y with a small ring at the foot	K
+t1	t	r-like stroke ending in a small ring	K
+t2	t	q	K
+x1	x	x with strokes	K
+x2	x	small ring	K
+z1	z	b with a bar	K
+z2	z	D	K
+q1	q	tt joined by its bar to a tall long s with a small ring at the top, written without a break; whether one sign or two joined is not known	S
+q2	q	small ring with a stroke to the right and a tail curling down to the left	S

@@ -1,0 +1,13 @@
+# The cipher paragraph of the cardinal of Tortosa's letter of 9 September 1520
+# (AGS, PTR,LEG,2,1,19, image 1), line by line as written.
+#   =word   a word in ordinary writing
+#   gig.    a group (data/groups.tsv)
+#   a2      a letter sign (data/signs.tsv)
+#   /       the clerk's word divider
+#   .       a stray dot (line 2, between "su" and the group mu.)
+1	=quanto =mas q1 u3 i6 c1 a2 roc. d2 a3 r2 a4 fud. / a2 roc. s4 / m2 a1 l4 e3 s1
+2	gig. leb. ded. mud. di. m1 u1 e1 u2 e4 n3 vuh. t1 r1 a2 / s3 u3 . mu. nah. yae.
+3	vuh. t2 r3 a3 / cab. s4 / nof. qag. su. so. s1 / gof. raf. ru. n3 / p2 r3 i1 m2 e1 r1 a2
+4	mud. q2 u5 i4 t2 a2 r2 / ceb. s4 / nad. a4 l4 c2 a3 u1 a2 l1 a1 s4 / i2 su. gad.
+5	ceb. s3 / nad. u2 i3 ll1 a3 s1 i5 neg. raf. gig. sa. hag. cu. zi. qec. r1 o1 n3 so. a3 /
+6	c1 o3 r3 o1 n3 a2 fed. /

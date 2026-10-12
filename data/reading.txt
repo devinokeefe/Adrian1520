@@ -1,0 +1,5 @@
+# Reading of the paragraph, in the spelling the cipher gives. Word division, capitals and the
+# two commas are editorial. c with cedilla, v and y are chosen by the editor where the cipher
+# has one sign for c/c-cedilla, u/v and i/j/y. The braces mark the two words in clear with which
+# the paragraph opens (docs/METHOD.md).
+{Quanto mas} quiça esto dara remedio a estos males, que no solamente se mueven contra su Magestad mas ahun contra todos los grandes, dels quales entienden primeramente quitar todas las alcavalas y despues todas las villas y lugares que de poco tiempo aca fueron de la corona real.

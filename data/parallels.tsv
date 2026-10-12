@@ -1,0 +1,48 @@
+# A second reading of the parallel passages: seven passages from letters A to D (see the top of
+# data/groups.tsv), set as 29 numbered points. Each point names a word of the deciphered text, and the reader
+# was asked which tokens of the cipher stand for it. The points were chosen in this study. The reader had
+# enlarged strips of the passages and their deciphered text, and neither the key nor the paragraph of 1520.
+# For A and C the deciphered text was this study's transcription of the decipherment of 1521, and for B and D
+# Danvila's print. docs/METHOD.md gives the instructions, and the question at point 22 asked the reader to
+# compare the tokens with the same tokens at other points. The answers are written in the notation used here,
+# with the reader's z for the 2-shaped r written r; a letter sign is written + and its letter. A point that
+# concerns more than one place has a row for each.
+# letter, image, line: the place, with lines counted as docs/METHOD.md says. The crops in
+#   images/parallels/ are named by letter, image and lines.
+# kind: key = the tokens are groups of the key, perhaps with letter signs, and the check spells them with
+#   the key's values; q = the sign for q, described by its shape; other = see the note.
+point	letter	image	line	word	tokens	kind	note
+1	A	1	31	sola	ded.	key
+2	A	1	34	tiempo	cu.	key
+3	A	1	32	es	raf.	key	in quanto es menester
+4	A	2	26	quales	gof. raf.	key
+5	A	2	27	lugares	neg. raf.	key
+6	A	2	30	des	su.	key	the first syllable of destierros
+7	A	3	3	tiempo	cu.	key
+8	A	3	4	entienden	ru. +n	key
+9	A	3	3	o	+o	other	the last letter of enxuto; the text given with the points had en punto here, and the reader read enxuto, which is what the decipherment of 1521 has
+10	A	3	29	entienden	ru. +n	key
+11	A	3	29	juntar	nu. +r	key
+12	A	3	29	tiempo	cu.	key
+13	A	3	31	toda	ceb.	key
+14	A	3	36	reales	fed. raf.	key
+15	A	4	2	corona real	+c +o +r +o +n +a fed.	key
+16	A	4	4	qual	gof.	key
+17	A	3	32	q	q1	q	quatro: the sign for p joined by its bar to a tall long s with a ring
+17	A	3	33	q	q2	q	the first quinientos: a single sign with a flag to the right and an open tail
+17	A	4	1	q	q1	q	the second quinientos: the joined sign again
+18	B	3	24	poco	hag.	key
+19	B	3	25	toda	ceb.	key
+20	B	3	27	grandes	qag. su.	key	the first, in vuh. qag. su., con grandes
+20	B	3	27	grandes	qag. su.	key	the second, in nof. qag. su., los grandes
+21	B	3	28	entienden	ru. +n	key
+22	B	3	28	gouernadores	nof. qof. raf.	other	read as los + qof. + es, with the straight q of qag., where letter A has nof. gof. raf. for los quales
+23	B	3	21	q	q1	q	quiteme: the joined sign
+23	B	3	26	q	q2	q	quitaciones: the single sign
+24	C	2	8	despues	su. gad.	key
+25	C	2	10	grande	qag. sa.	key
+26	C	2	10	juntar	nu. +r	key
+27	D	5	32	remedio	fud.	key
+28	D	5	30	qual	gof.	key
+29	D	5	31	todo	cab.	key
+29	D	5	32	todo	cab.	key

@@ -1,0 +1,26 @@
+# Short words in clear within the cipher of letters A to D (see the top of data/groups.tsv), of the
+# kind that Kolosova describes as not to be read (thesis, p. 229). Each letter was searched for them on
+# the images, and one may have been missed. Longer phrases in clear, which A and C have often, are not listed.
+# letter, image, line: the place, with lines counted as docs/METHOD.md says. The crops in
+#   images/parallels/ are named by letter, image and lines.
+# clear: the words in clear as written.
+# text: the deciphered text where the cipher resumes, with a word or two before it where the words in
+#   clear stand inside a sentence. For A and C it is the decipherment of 1521, and for B and D Danvila's
+#   print (vol. 4, pp. 547-549 and 28-29).
+# status: read if the deciphered text has the words in clear, omitted if it has nothing for them.
+letter	image	line	clear	text	status
+B	3	1	Como quien	Acá aparejamos	omitted
+B	3	7	pero mas	El Almirante y el Condestable	omitted
+B	3	18	quanto	entre estos gouernadores	omitted
+B	3	21	pero	quitóme	omitted
+B	3	25	como	buena obra común ha mas	omitted
+B	3	34	Quanto	El Condestable estima	omitted
+B	4	12	quien mas	El duque del Infantazgo	omitted
+B	4	25	pero	pero conviene	read
+B	5	1	como	digo lo del vender	omitted
+B	5	13	simo que	estos gouernadores pues	omitted
+C	1	28	pero sin	no teniendo la pero sin el poder	read
+C	1	32	Quanto menos	De exortar a los grandes	omitted
+C	2	10	quanto al	Quanto al juntar grande exercito	read
+D	5	24	Como quien	El duque de nagera	omitted
+D	5	30	pero mas	V. M. venga	omitted

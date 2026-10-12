@@ -1,0 +1,162 @@
+# Where the pages quote a count. The check puts the computed number (data/figures.txt) in place of
+# {} and looks for the phrase in the file named, read without line breaks and block-quote marks.
+# {w} is the number written as a word, and {W} the same with a capital letter.
+figure	file	phrase
+paragraph lines	README.md	{W} lines of his letter of 9 September
+paragraph lines	README.md	the {w} lines have the cardinal
+paragraph lines	README.md	these {w} lines or
+paragraph words	README.md	The paragraph has {} words
+paragraph words in clear	README.md	The first {w}, *quanto mas*, are in clear
+paragraph words in cipher	README.md	The other {} are in cipher
+commas in the reading	README.md	the capitals and the {w} commas
+fewest signs for one letter in the published table	README.md	from {w} to seven signs
+most signs for one letter in the published table	README.md	from one to {w} signs
+signs of dara	README.md	is written with {w} signs
+shortest group	README.md	groups of {w} or three ordinary letters
+longest group	README.md	groups of two or {w} ordinary letters
+paragraph words in clear	README.md	the {w} words the clerk left in clear
+words in clear within the cipher, omitted	docs/METHOD.md	omits the words in clear at {w} of these places
+words in clear within the cipher, read	docs/METHOD.md	and reads them at {w}.
+words in clear within the cipher, omitted in Danvila's print of B and D	docs/METHOD.md	{W} of the twelve omissions are in Danvila's print
+words in clear within the cipher, omitted in the decipherment of C	docs/METHOD.md	of C omits such words at {w} place
+words in clear within the cipher, read in the decipherment of C	docs/METHOD.md	place and reads them at {w}. In B
+test letter signs agreeing	README.md	the agreement of the {} letter signs
+signs in the published table	README.md	a table of {} letter signs
+paragraph distinct groups	README.md	Of the {} different groups in it
+paragraph distinct groups from the published key	README.md	{} are in the vocabulary of the thesis
+paragraph distinct groups from the parallels	README.md	and {} are missing
+paragraph distinct groups from the parallels	README.md	The {w} groups were found in
+letters of 1521 used for the key	README.md	found in {w} of the cardinal's letters
+places of cu.	README.md	`cu.` {w} times for *tiempo*
+places of ru.	README.md	`ru.` + n {w} times for
+groups in the key, added	README.md	The comparison added {} groups
+paragraph distinct groups from the parallels	README.md	the {w} among them
+signs for q	README.md	showed {w} signs for q
+paragraph groups	README.md	each of the {} groups and
+paragraph letter signs	README.md	groups and {} letter signs in the paragraph
+added groups resting on one place	README.md	{W} of the ten were found at a single place
+test passage lines	README.md	tried on {w} lines of the letter of 7 December
+test groups	README.md	Of {} groups in those lines
+test groups in the key	README.md	{} were in the key
+test groups agreeing	README.md	and all {} gave the word
+test letter signs	README.md	Of {} letter signs
+test letter signs matched to one sign	README.md	{} could be matched to one sign
+test letter signs agreeing	README.md	and all {} agreed
+test letter signs not matched to one sign	README.md	Of the other {w}, two
+test signs not in the table	README.md	{w} are not in the table and
+test look-alike pairs	README.md	and {w} could be either of two signs
+test words spelt more briefly, as named	README.md	At {w} places the cipher is shorter
+1520 passage words	README.md	has {} words in this cipher
+1520 passage words the key reads	README.md	The key reads {} of the
+1520 passage words	README.md	of the {} and gives
+1520 passage words the same as the print	README.md	printed word at {}.
+1520 passage words that differ from the print	README.md	At the other {w} it gives
+test groups in the key	README.md	Of the {} groups checked in the first
+test groups from the published key	README.md	{} come from the thesis
+test groups from the added part	README.md	and {} are additions
+test groups among the ten	README.md	Only {w} of the ten groups that the paragraph needs
+signs for q	README.md	and for the {w} signs for q, the evidence is the parallel passages alone
+second reading places the same	README.md	group at {} of the
+second reading places	README.md	of the {} positions, and at the remaining one
+second reading places the same	README.md	Of the {}, two agree
+second reading places corrected in the first from it	README.md	{w} agree because the first transcription was corrected
+second reading signs identified from a description	README.md	{w} are signs that the reader could not find
+second reading groups with the letters mapped	README.md	and in {w} groups the comparison reads
+proposals for the ten groups given as one word that are the key's	README.md	the reader proposed for {w} of them the value
+proposals for the ten groups given as one word at 50 or less	README.md	{w} of these as guesses
+parallel points	README.md	was asked at {} points
+parallel places where the key gives the word	README.md	At the {} places of the
+parallel points on groups of the key	README.md	of the {} points that concern groups
+points of judgement in docs/TEXT.md besides the dot	README.md	Besides the stray dot, {w} signs or letters
+groups respelt after the test, as listed	README.md	After the test {} groups were respelt
+groups removed after the test	README.md	{w} were removed, Kolosova's group for
+signs for q	README.md	the ten added groups and the {w} signs for q
+signs in the published table	docs/METHOD.md	Kolosova's table has {} signs
+letters in the published table	docs/METHOD.md	signs for {} letters
+fewest signs for one letter in the published table	docs/METHOD.md	from {w} each for ll and rr
+most signs for one letter in the published table	docs/METHOD.md	to {w} for i
+paragraph distinct letter signs	docs/METHOD.md	The paragraph of 1520 uses {} different signs
+signs for q	docs/METHOD.md	{w} of which are the signs for q
+shortest group	docs/METHOD.md	groups of {w} or three ordinary letters
+longest group	docs/METHOD.md	groups of two or {w} ordinary letters
+groups in the key, published, without mu.	docs/METHOD.md	The other {}, with `mu.`
+groups in the key, published	docs/METHOD.md	are the {} groups marked K
+letters of 1521 used for the key	docs/METHOD.md	taken from {w} letters in the same bundle
+groups in the key, added	docs/METHOD.md	The {} added groups are in
+added groups that the tests use besides the ten	docs/METHOD.md	For the {w} other added groups that the tests use
+added groups named by image only	docs/METHOD.md	For the other {} it names the image only
+paragraph distinct groups from the parallels	docs/METHOD.md	## The {w} groups the paragraph needs
+added groups resting on one place	docs/METHOD.md	The {w} groups that rest on a single place
+signs for q	docs/METHOD.md	the letters of 1521 show {w}.
+test passage lines	docs/METHOD.md	the first {w} lines of the cipher paragraph on the first image of letter C
+test groups	docs/METHOD.md	| groups | {} |
+test groups in the key	docs/METHOD.md	| groups | 35 | {} |
+test groups agreeing	docs/METHOD.md	| groups | 35 | 31 | {} |
+test letter signs	docs/METHOD.md	| letter signs | {} |
+test letter signs matched to one sign	docs/METHOD.md	| letter signs | 93 | {} |
+test letter signs agreeing	docs/METHOD.md	| letter signs | 93 | 90 | {} |
+test groups not in the key	docs/METHOD.md	The {w} groups that are not in the key
+test signs not in the table	docs/METHOD.md	{W} signs are not in the table
+test look-alike pairs	docs/METHOD.md	{W} sign could not be distinguished from its look-alike
+test groups from the added part	docs/METHOD.md	The {w} added groups among the
+test groups in the key	docs/METHOD.md	added groups among the {} are
+letters of 1521 used for the key	docs/METHOD.md	The {w} letters behind the added values
+1520 passage words	docs/METHOD.md	has {} words in cipher among words in clear
+1520 passage words the key reads	docs/METHOD.md	The key reads {} of the
+1520 passage words	docs/METHOD.md	of the {} words. The two
+1520 passage words the key cannot read	docs/METHOD.md	The {w} it cannot read
+1520 passage words the key reads	docs/METHOD.md	Of the {} words, 16
+1520 passage words the same as the print	docs/METHOD.md	{} are letter for letter the words of the print
+1520 passage words that differ from the print	docs/METHOD.md	and the table gives the other {w}.
+1520 passage groups	docs/METHOD.md	The passage has {} groups
+1520 passage added groups	docs/METHOD.md	{W} of them carry values that were added
+second reading places the same	docs/METHOD.md	as the first at {} of the
+second reading places	docs/METHOD.md	of the {} positions. The first has
+second reading places the same	docs/METHOD.md	Not all of the {} agreements
+second reading places corrected in the first from it	docs/METHOD.md	In {w} groups, `qag.` and `qec.`,
+second reading signs identified from a description	docs/METHOD.md	{W} signs the reader could not find in the table
+signs for q	docs/METHOD.md	at the ten groups and at the {w} signs for q
+proposals for the ten groups given as one word that are the key's	docs/METHOD.md	{W} of the proposals for the groups are the values
+proposals for the ten groups at 80 or more	docs/METHOD.md	{w} of them at a confidence of 80 per cent or more
+proposals for the ten groups given as one word at 50 or less	docs/METHOD.md	and {w}, *remedio* for `fud.`
+parallel points	docs/METHOD.md	At {} numbered points
+parallel points	docs/METHOD.md	Of the {} points, 25
+parallel points on groups of the key	docs/METHOD.md	points, {} concern groups of the key
+parallel places on groups of the key	docs/METHOD.md	groups of the key, at {} places
+parallel points on the sign for q	docs/METHOD.md	{W} points, 17 and 23, concern the signs for q
+groups removed after the test	docs/METHOD.md	{W} groups of the first reading were removed
+parallel places of the sign for q	docs/METHOD.md	the signs for q, at {} places
+groups respelt after the test, as listed	docs/METHOD.md	but {} groups were respelt
+groups respelt after the test, from the published key	docs/METHOD.md	Of these, {} are groups of Kolosova's vocabulary
+test groups not in the key	docs/METHOD.md	The last {w} are the groups of the first test passage
+test groups not in the key	docs/METHOD.md	all {w} fit the order of the vocabulary
+paragraph lines	docs/TEXT.md	the rest is cipher: {w} lines
+signs for q	docs/TEXT.md	The {w} signs for q are
+1520 passage words the same as the print	README.md	One of the {} words of the second test that agree
+groups among the ten that neither test uses	README.md	For the other {w}, and for the two signs for q
+confidence of the proposal for ru.	docs/METHOD.md	perhaps *entienden*", at {} per cent
+places of the first sign for q	docs/METHOD.md	and the {w} places in the letters of 1521 show only
+letters of 1521 used for the key	docs/TEXT.md	values come from {w} of the cardinal's letters of 1521
+places of the first sign for q	docs/TEXT.md	gives the {w} places in the letters of 1521 where the pair
+sets of respelt groups	docs/METHOD.md	They fall into {w} sets.
+paragraph distinct groups from the parallels	docs/METHOD.md	None of the {w} groups that the paragraph needs rests on B alone
+paragraph distinct groups from the parallels	docs/METHOD.md	as it does for the {w} below
+paragraph distinct groups from the parallels	README.md	Asked then what the {w} missing groups meant
+paragraph distinct groups from the parallels	README.md	over the evidence for the {w} added groups and the
+added groups that the tests use besides the ten	README.md	added groups and the {w} others that the tests use
+paragraph distinct groups from the parallels	data/README.md	for the {w} that the paragraph needs and the
+added groups that the tests use besides the ten	data/README.md	and the {w} others that the tests use, the image
+paragraph distinct groups from the parallels	images/README.md	name for the {w} added groups and the
+added groups that the tests use besides the ten	images/README.md	added groups and the {w} others that the tests use, the two signs
+signs for q	images/README.md	the tests use, the {w} signs for q, the groups
+test passage lines	images/README.md	the first test, the first {w} lines of the cipher paragraph
+paragraph lines	data/README.md	the {w} lines of the paragraph, sign by sign
+test passage lines	data/README.md	the first test: {w} lines of the letter
+paragraph words in clear	data/README.md	with the {w} opening words in clear
+signs for q	data/README.md	The {w} signs for q, which the table lacks
+paragraph words in clear	README.md	The translation omits the {w} words in braces
+paragraph words in clear	docs/TEXT.md	Its first {w} words, *quanto mas*, are in clear
+paragraph words in clear	docs/TEXT.md	The braces mark the {w} words in clear
+paragraph words in clear	docs/TEXT.md	If *quanto mas*, the {w} words in braces, belongs
+paragraph words in clear	docs/METHOD.md	The paragraph opens with {w} words in clear, *quanto mas*
+paragraph words in clear	docs/METHOD.md	The reading prints the {w} words in braces

@@ -1,0 +1,22 @@
+2  so.                          key: del        print: del        same
+2  m2 a3 r1 i1 c2 h2 a2 l3      key: marichal   print: Mariscal   DIFFERS
+2  sa.                          key: de         print: de         same
+2  mal.                         key: -          print: Navarra    not in the key
+3  h1 e1 r3 n3 a4 n2 d2 o1      key: hernando   print: Fernando   DIFFERS
+3  sa.                          key: de         print: de         same
+3  u1 e2 g1 a2                  key: uega       print: Vega       same
+3  i2                           key: i          print: y          same
+3  yee.                         key: al         print: al         same
+3  co. n1 t2 e3                 key: tienente   print: Teniente   DIFFERS
+4  gig.                         key: que        print: que        same
+4  co.                          key: tiene      print: tiene      same
+4  ri.                          key: en         print: en         same
+4  s4 i6 m1 a1 n1 c1 a4 s1      key: simancas   print: Simancas   same
+4  X2 e4 n3 i1 e3 n2 t1 e1      key: -          print: Teniente   not in the key
+5  cog. a4                      key: vera       print: vera       same
+5  hof.                         key: por        print: por        same
+5  ned.                         key: la         print: lo         DIFFERS
+5  gig.                         key: que        print: que        same
+5  u2 a4                        key: ua         print: va         same
+5  vuh.                         key: con        print: con        same
+6  ruc.                         key: esta       print: esta       same

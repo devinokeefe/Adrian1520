@@ -1,0 +1,39 @@
+# A second passage of 1520: the cipher words in a paragraph of the cardinal's letter of
+# 8 October 1520 that begins "Despues de scripto lo de hasta aqui" (AGS, PTR,LEG,2,1,23, image 3,
+# the first five lines of text and the first group of the sixth; images/tests/no23_1520_passage.jpg).
+# It was transcribed after the key had been fixed and after the spelling of the groups had been
+# corrected. Nothing in the key was taken from it.
+# print: the word at that place in the decipherment by Claudio Pérez y Gredilla, printed by
+# Danvila, vol. 2 (1898), pp. 251-252: "acerca lo del Mariscal de Navarra sobre lo qual screui
+# con personas propias á Fernando de Vega y al Teniente que tiene en Simancas todo lo que
+# convenia el mesmo Teniente me ha respondido lo que vra M.at vera por lo que va con esta".
+# The words the clerk wrote in clear are omitted. Tokens as in data/paragraph.txt. line: the line
+# on which the word begins.
+# X2 = a sign that is not in the table: an L-shaped stroke ending in a small ring. It is the
+# X2 of data/test_passage.tsv, and in both passages the decipherment has t.
+# mal. has no value in data/groups.tsv.
+# key gives: given only at the four places where the key and the print give different letters.
+# The check fails if the key gives anything else there, or anything but the print's word elsewhere.
+line	tokens	print	key gives	note
+2	so.	del
+2	m2 a3 r1 i1 c2 h2 a2 l3	Mariscal	marichal	a form of mariscal or a slip
+2	sa.	de
+2	mal.	Navarra
+3	h1 e1 r3 n3 a4 n2 d2 o1	Fernando	Hernando
+3	sa.	de
+3	u1 e2 g1 a2	Vega
+3	i2	y
+3	yee.	al
+3	co. n1 t2 e3	Teniente	tienente	the group for tiene with n-t-e
+4	gig.	que
+4	co.	tiene
+4	ri.	en
+4	s4 i6 m1 a1 n1 c1 a4 s1	Simancas
+4	X2 e4 n3 i1 e3 n2 t1 e1	Teniente		runs on to line 5 after i1
+5	cog. a4	vera
+5	hof.	por
+5	ned.	lo	la
+5	gig.	que
+5	u2 a4	va
+5	vuh.	con
+6	ruc.	esta		Kolosova gives ruc. as the verb esta; the word here is the demonstrative, whose group in the thesis has the same picture as embajador

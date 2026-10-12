@@ -1,0 +1,3 @@
+# English translation of the paragraph, as printed in README.md and docs/TEXT.md, without the
+# two words in braces in data/reading.txt. The notes on it are in docs/TEXT.md.
+Perhaps this will bring a remedy to these ills, for they are rising not only against His Majesty but against all the grandees as well, from whom they mean to take first all the alcabalas and afterwards all the towns and villages that not long ago belonged to the royal Crown.
