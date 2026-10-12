@@ -16,7 +16,7 @@ ok    second transcription: the groups corrected from it and the signs identifie
 ok    second reading: at every point on groups of the key the tokens found give the word with the key's values
 ok    second reading: the points on the sign for q name signs that are q
 ok    second reading: every place of the points is shown in a crop in images/parallels
-ok    second reading: the proposals for the ten groups and the two signs are the key's
+ok    second reading: the proposals for the ten groups and the two signs name the key's values, ru.'s as a guess
 ok    control: a changed group value breaks the reading check
 ok    control: two exchanged signs break the reading check
 ok    control: a group removed from the key is reported as missing

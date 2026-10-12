@@ -350,7 +350,7 @@ and neither the key nor the paragraph. For A and C the deciphered text was this 
 decipherment of 1521, and for B and D Danvila's print. At 29 numbered points, chosen in this study, the
 reader was asked which signs or groups stand for a given word ([data/parallels.tsv](../data/parallels.tsv)).
 The instructions said that the same group always has the same value, and warned that g and q look alike
-and that the group then written `zi`, now `ri.` (*en*), can look like a u with a stroke in front, since the
+and that the group then written `zi.`, now `ri.` (*en*), can look like a u with a stroke in front, since the
 i has no dot.
 
 Of the 29 points, 25 concern groups of the key, at 27 places, and at each the tokens that the reader found

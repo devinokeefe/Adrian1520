@@ -70,9 +70,7 @@ second reading places corrected in the first from it	2
 second reading signs identified from a description	2
 second reading groups with the letters mapped	6
 proposals for the ten groups	10
-proposals for the ten groups that are the key's	10
 proposals for the ten groups at 80 or more	7
-proposals for the ten groups at 50 or less	3
 proposals for the ten groups given as one word that are the key's	9
 proposals for the ten groups given as one word at 50 or less	2
 parallel points	29

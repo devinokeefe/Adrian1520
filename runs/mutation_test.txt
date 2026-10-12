@@ -13,7 +13,7 @@ unmodified repository: the check passes
 12  second test: the word that the key gives for `ned.` deleted: detected (passage of 1520: every word the key reads is the print's, or the other word the file names)
 13  second transcription: a sign of *corona* copied wrongly: detected (second transcription: each place where it differs from data/paragraph.txt is named in docs/METHOD.md)
 14  second transcription: a group corrected from it misnamed: detected (second transcription: the groups corrected from it and the signs identified from the reader's description are in both transcriptions)
-15  proposals: *pues* recorded as *para*: detected (second reading: the proposals for the ten groups and the two signs are the key's)
+15  proposals: *pues* recorded as *para*: detected (second reading: the proposals for the ten groups and the two signs name the key's values, ru.'s as a guess)
 16  parallels: `fud.` recorded as `fed.`: detected (second reading: at every point on groups of the key the tokens found give the word with the key's values)
 17  parallels: a place moved to a line with no crop: detected (second reading: every place of the points is shown in a crop in images/parallels)
 18  figures: a recorded count changed: detected (the recorded figures are the ones computed now)

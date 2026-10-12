@@ -9,7 +9,8 @@
     python code/decode.py --figures  the counts taken from the data (kept in data/figures.txt)
     python code/decode.py --check    all checks; exit status 0 only if every one passes
 
-Standard library only. The script reads data/, and for --check the pages as well, and writes nothing.
+Standard library only. The script reads data/, for --figures and --check the pages as well, and for --check
+the sizes of the pictures in images/. It writes nothing.
 """
 
 import collections
@@ -1025,9 +1026,7 @@ def figures(signs, groups):
         ),
         "second reading groups with the letters mapped": len(second_mapped()),
         "proposals for the ten groups": len(props),
-        "proposals for the ten groups that are the key's": len([r for r in props if proposal_agrees(r, signs, groups)]),
         "proposals for the ten groups at 80 or more": len([r for r in props if r[3] >= 80]),
-        "proposals for the ten groups at 50 or less": len([r for r in props if r[3] <= 50]),
         "proposals for the ten groups given as one word that are the key's": len(
             [r for r in props if not r[4] and proposal_agrees(r, signs, groups)]
         ),
@@ -1149,7 +1148,7 @@ def check(signs, groups):
         lambda: all(crop_for(r[1]) for r in parallels()),
     )
     ok(
-        "second reading: the proposals for the ten groups and the two signs are the key's",
+        "second reading: the proposals for the ten groups and the two signs name the key's values, ru.'s as a guess",
         lambda: (
             all(proposal_agrees(r, signs, groups) for r in proposals() if r[1] in ("group", "sign"))
             and {r[0][:-1] for r in proposals() if r[1] == "group"} == set(ten(groups))

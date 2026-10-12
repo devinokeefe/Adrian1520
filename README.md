@@ -209,7 +209,8 @@ each prints is recorded in `runs/`. The script uses only the standard library an
 - In line 2 a dot belongs to no group, and `mu.` stands alone, as it does nowhere in the letters of 1521 that
   were read. The paragraph calls the king *su Magestad*, a title that the rest of the letter does not use
   ([docs/TEXT.md](docs/TEXT.md) gives the nearest forms, from the passage after the date). None of these is
-  explained.
+  explained. The reading passes over the dot, and that choice is one of the five points of judgement in
+  [docs/TEXT.md](docs/TEXT.md).
 - Besides the stray dot, four signs or letters were settled by judgement: the m of *primeramente*, which lacks
   its usual bar, the first sign of *quiça*, a blotted letter in the first `roc.`, and the g of `gof.`, which
   with a q would be a different group. [docs/TEXT.md](docs/TEXT.md) describes each, and `images/details/`
@@ -305,8 +306,8 @@ tests do not reach.
 - Constantin von Höfler, "Monumenta Hispanica I: Correspondenz des Gobernadors von Castilien ... Adrian von
   Utrecht mit Kaiser Karl V. im Jahre 1520", *Abhandlungen der königlich böhmischen Gesellschaft der
   Wissenschaften*, 6th series, 10 (Prague, 1881), no. XXIII.
-- Manuel Danvila y Collado, *Historia crítica y documentada de las Comunidades de Castilla*, vols 2 and 4
-  (*Memorial Histórico Español* 36 and 38, Madrid, 1898).
+- Manuel Danvila y Collado, *Historia crítica y documentada de las Comunidades de Castilla*, vols 1, 2 and 4
+  (*Memorial Histórico Español* 35, 36 and 38, Madrid, 1897-1898).
 - Olga Kolosova, *El lenguaje secreto de la diplomacia de Carlos V (1521-1527)*, doctoral thesis, Universitat
   de València, 2017. The cipher is no. 4 of the thesis, pp. 227, 229, 241, 243 and 248-250.
 - Satoshi Tomokiyo, "Scholarly Studies on Ciphers in the Reign of Emperor Charles V", *Cryptiana*,
