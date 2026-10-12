@@ -6,7 +6,7 @@ authors:
   - family-names: "O'Keefe"
     given-names: "Devin"
     email: "okeefede@tcd.ie"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-12"
 # The licence named here is that of the pages, the files in data/, the records in runs/ and this file.
 # The script, the mutation test, tools/make_sums.sh, the workflow and the configuration files are under
